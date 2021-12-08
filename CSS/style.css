@@ -1,0 +1,30 @@
+.main {
+    margin-top: 100px;
+}
+.text1 {
+    color: #e98208;
+    font-size: 50px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+
+.text2 {
+    color: #e98208;
+    font-size: 40px;
+    font-family: Orbitron;
+    letter-spacing: 5px;
+}
+
+#myClock {
+    color: #e98208;
+    font-size: 70px;
+    font-family: Orbitron;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+
+}
+
+img {
+    width: 20%;
+    margin-bottom: 50px;
+}
